@@ -5,7 +5,7 @@
 ### About me:
 - 👀 I’m interested in learning more about Computer Vision and Natural Language Processing.
 - 🌱 I’m working with AWS technologies.
-- 🎓 I have a degree in Computer Engineer from UMA.
+- 🎓 I have a degree in Computer Engineering from UMA.
 - 📫 How to reach me rbnbullones1@gmail.com
 
 ### Languages and Tools:
